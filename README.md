@@ -5,14 +5,14 @@
 #### *Making being healthy  convenient for everyone*
 # Healthy Scan
 
-This app simplifies medical report interpretation with a scanning feature and user-friendly interface. It includes a chatbot for personalized health recommendations, aiming to improve understanding and engagement with health information.
+Introducing Healthy Scan - Making Health Convenient for All! Our app scans, analyzes, and identifies patterns or abnormalities in your health reports. It then presents concise summaries to healthcare providers, compiled from short MCQ-based general questions. These questions cover common pre-appointment inquiries. Additionally, the app recommends nearby doctors tailored to your specific needs.
 
 
 ## Problem Statement
 
-Over time, many people find it hard to understand their medical reports due to differences in education, languages spoken, and health behaviors. This difficulty can hinder their ability to prevent and manage health issues, especially when dealing with unfamiliar statistics, community health decisions.
+Patients often encounter confusion regarding which healthcare professional to consult after receiving blood reports, which results in potential delays in receiving appropriate care. 
+Moreover, doctors spend time making recommendations for unnecessary tests or procedures, contributing to the scattered nature of the healthcare system, which lacks a comprehensive solution to address these challenges and may pose potential risks to patient health.
 
-"Studies suggest that improving health literacy could prevent nearly **1 million hospital visits** each year and save over **$25 billion.**"
 ## 🎥 Demo Video
 
 Video Link: [![Click to watch video](https://raw.githubusercontent.com/engineer-bisharat-ali/thumbnail-image/main/Thumbnail.png)](https://youtu.be/IGZEmVKCN9M)
@@ -35,9 +35,16 @@ Provides scanning feature and easily breakdown hard to understand information.
 Helps you add personalised goals for achieving a better health and personal satisfaction
 ![Alt Text](https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/Group%205%20(1).png)
 
+## Book Appointment
+Helps you book appointment according to your convenience so you can consult your report with the doctor and get a detailed check up 
+![Alt Text](![image](https://github.com/engineer-bisharat-ali/Healthy-Scan-App/assets/66549202/62853efb-c29e-4a9a-aa99-4b1b4ea0bd5a)
+)
+
+
 ## Virtual Coach
 In the need of emergency your guide for quick health advice whether it be asking for general health nutritional advice or quick help in analysing new medicine. Your own stress managing bot.
-![Alt Text](https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/Group%205.png)
+![image](https://github.com/engineer-bisharat-ali/Healthy-Scan-App/assets/66549202/2e316205-5045-4ec4-9ab8-30fce70bc3ab)
+
 ## 🎯  UN's Sustainable Development Goals & Targets
 
 ### SDG 3: Good Health and Well-Being (Target: 3.8)
