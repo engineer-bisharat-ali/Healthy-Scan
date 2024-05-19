@@ -37,13 +37,11 @@ Helps you add personalised goals for achieving a better health and personal sati
 
 ## Book Appointment
 Helps you book appointment according to your convenience so you can consult your report with the doctor and get a detailed check up 
-![Alt Text](![image](https://github.com/engineer-bisharat-ali/Healthy-Scan-App/assets/66549202/62853efb-c29e-4a9a-aa99-4b1b4ea0bd5a)
-)
-
+![Alt Text](https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/Appointment%20Screen.jpg)
 
 ## Virtual Coach
-In the need of emergency your guide for quick health advice whether it be asking for general health nutritional advice or quick help in analysing new medicine. Your own stress managing bot.
-![image](https://github.com/engineer-bisharat-ali/Healthy-Scan-App/assets/66549202/2e316205-5045-4ec4-9ab8-30fce70bc3ab)
+In the need of emergency your guide for quick health advice taking notes and checking up on your condition after the blood reports. 
+                                ![Alt text](https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/Group%201000000764.png)
 
 ## 🎯  UN's Sustainable Development Goals & Targets
 
