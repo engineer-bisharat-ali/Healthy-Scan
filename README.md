@@ -77,7 +77,7 @@ For Android User
 </kbd>
 </div>
 <div align="center">
-<h4>Firebase | Google Cloud | Gemini API | Google Maps API</h4>
+<h4>Firebase | Google Cloud | Gamma | Google Maps API</h4>
 </div>
 
 
