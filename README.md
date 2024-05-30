@@ -70,14 +70,14 @@ For Android User
 <img src="https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/icons8-google-cloud-48.png" height="60" />
 </kbd>
 <kbd>
-<img src="https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/Google-Gemini-Logo.png" height="60" />
+<img src="https://raw.githubusercontent.com/engineer-bisharat-ali/Assets/main/gamma-ai-logo.png" height="60" />
 </kbd>
 <kbd>
 <img src="https://raw.githubusercontent.com/helloworld-at/Assets/main/assetsfigma/icons8-google-maps-48.png" height="60" />
 </kbd>
 </div>
 <div align="center">
-<h4>Firebase | Google Cloud | Gamma | Google Maps API</h4>
+<h4>Firebase | Google Cloud | Gamma AI | Google Maps API</h4>
 </div>
 
 
